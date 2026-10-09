@@ -155,6 +155,7 @@ footer p {
   margin: 0;
 }
 
+
 @media (max-width: 760px) {
   .topo { flex-direction: column; gap: 16px; }
   nav { flex-wrap: wrap; justify-content: center; }
